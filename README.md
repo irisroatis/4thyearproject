@@ -8,4 +8,4 @@ Multivariate_Hawkes.zip contains:
 - file `fminsearchbnd.m` from https://github.com/AdamSykulski/SPG which optimises any function given
 - file `SimulateMarkedHawkesMD.m` from https://karwailim.github.io/ which simulates multivariate Hawkes processes
 - file `check_spectra_from_theorem_against_periodogram_multivariate.m` which implements the formula for the spectral density of a discrete-time binned Hawkes process and checks it against periodogram, resulting plots in `real11.png`, `real12.png`, `real21.png`, `real22.png`,`imag11.png`, `imag12.png`,`imag21.png` and `imag22.png`
-- file `MSAWvsMCEM.m` which implements the standard Whittle likelihood and also conducts a simulation study to compare it against MCEM
+- file `MSAWvsMCEM.m` which implements the standard Whittle likelihood and also conducts a simulation study to compare it against MCEM, resulting saved estimates in `my_parameters.mat` and `mcem_parameters.mat` and comparison plots in `a11.png`, `a12.png`, `a21.png`, `a22.png`, `b11.png`, `b12.png`, `b21.png`, `b22.png`, `l1.png`, `l1.png`
