@@ -1,7 +1,6 @@
 # Code for 4th year Masters project
 Title of Thesis: ESTIMATING PARAMETERS OF BINNED HAWKES PROCESSES
 
-Supervisor: Dr Ed Cohen
 
 Multivariate_Hawkes.zip contains:
 - files `complete_likelihood.m`, `MCEM_algorithm_full.m`, `max_cond_pdf.m`, `disc_time_hp_grid.m`, `complete_sum_likelihood.m`, `generate_uniform_times.m` from https://github.com/lshlomovich/MCEM_Multivariate_Hawkes which implement the MCEM method
