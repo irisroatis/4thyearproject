@@ -1,5 +1,5 @@
 # Code for 4th year Masters project
-Title of Thesis: ESTIMATING PARAMETERS OF BINNED HAWKES PROCESSES
+### Title: ESTIMATING PARAMETERS OF BINNED HAWKES PROCESSES
 
 
 Multivariate_Hawkes.zip contains:
